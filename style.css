@@ -28,4 +28,49 @@
 
 .newpost{
     background-color: fff;
+    
+}
+
+h3{
+    color: #404040;
+    margin-left: 5px;
+}
+
+.newpost button{
+    margin-left: 5px;
+}
+
+.area{
+    margin-left: 5px;
+}
+
+.allpost{
+    margin:5px;
+}
+
+.stoic{
+    margin:5px;
+}
+
+.nbtn button{
+    background-color: white;
+    color:000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.addbtn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.nbtn btn1{
+    background-color: 000;
+    color:fff;
+}
+
+.btn2{
+    background-color: 000;
+    color:fff;
 }
